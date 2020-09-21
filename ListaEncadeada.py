@@ -134,7 +134,6 @@ if __name__ == "__main__":
     lista.append(32)
     lista.append(17)
     print(lista)
-
     lista.insert(0, 22)
     lista.insert(3, 800)
 
